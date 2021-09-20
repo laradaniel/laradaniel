@@ -2,4 +2,4 @@
 
 - 🌱 Iniciando nos estudos Dev Fullstack
 - 💻 começando por HTML | CSS | JavaScript | ReactJS 
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
