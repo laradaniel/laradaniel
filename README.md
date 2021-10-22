@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Lara Daniel 👋
 
 - 🌱 Iniciando nos estudos Dev Fullstack
-- 💻 começando por HTML | CSS | JavaScript | ReactJS 
+- 💻 Começando por Java | React
+- 📚 Gama Academy | Generation Brasil
 - 😄 Pronomes: ela/dela
