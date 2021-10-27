@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lara Daniel 👋
+### Olá! Eu sou a Lara 👋
 
 - 🌱 Iniciando nos estudos Dev Fullstack
 - 💻 Começando por Java | React
