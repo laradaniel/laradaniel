@@ -2,5 +2,5 @@
 
 - 🌱 Iniciando nos estudos Dev Fullstack
 - 💻 Começando por Java | React
-- 📚 Gama Academy | Generation Brasil
+- 📚 Generation Brasil | Gama Academy
 - 😄 Pronomes: ela/dela
