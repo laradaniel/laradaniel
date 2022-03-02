@@ -14,8 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laradaniel&layout=compact&langs_count=7&theme=radical"/>
   </div>
   
-  
-<br><br><br>
+<br>
 
 ###### Principais interesses
    <table>
