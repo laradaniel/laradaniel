@@ -32,10 +32,10 @@
 
 ###### Contatos
 
-<a href="https://www.linkedin.com/in/laradaniel1>" alt="linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/laradaniel1" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:laradanielt@gmail.com" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<laradanielt@gmail.com>" />
 </a>
 
